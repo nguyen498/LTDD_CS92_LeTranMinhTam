@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/drawable/color_1.xml" value="0.1385" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/drawable/ic_add_story.xml" value="0.1375" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_account__settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_add_story.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_edit_profile.xml" value="0.22" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_followers_following.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_home.xml" value="0.14402173913043478" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_posts_viewer.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/activity_user_search_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/add_story_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_friends.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_home_post_viewer.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_like.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/friends_single_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/layout_each_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/layout_grid_imageview.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/like_each_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/msg_item_left.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/msg_item_right.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/story_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/layout/user_search_items.xml" value="0.22" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/menu/home_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_instaclone.xml" value="0.1375" />
+        <entry key="..\:/BTL-LTDD/Instagram-clone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_instaclone_round.xml" value="0.1375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram-clone/app/src/main/res/layout/activity_account__settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram-clone/app/src/main/res/layout/activity_login.xml" value="0.1734375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Instagram-clone/app/src/main/res/layout/activity_post.xml" value="0.14990942028985507" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
